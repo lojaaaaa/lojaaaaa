@@ -1,5 +1,9 @@
 Hi 👋 My name is Alexander
-==========================Beginner Web Developer----------------------Now I can make some basic websites, but I hope there will be more.* 🖥️  See my portfolio at [github](http://https://github.com/lojaaaaa)* ✉️  You can contact me at [lifeofhighlights@gmail.com](mailto:lifeofhighlights@gmail.com)* 🧠  I'm learning advanced aspects of java script
+Beginner Web Developer
+Now I can make some basic websites, but I hope there will be more.* 
+🖥️  See my portfolio at [github](http://https://github.com/lojaaaaa)*
+✉️  You can contact me at [lifeofhighlights@gmail.com](mailto:lifeofhighlights@gmail.com)* 
+🧠  I'm learning advanced aspects of java script
 
 ### Skills
 
