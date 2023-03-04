@@ -6,7 +6,7 @@ a Beginner Web Developer
 
 Now I can make some basic websites, but I hope there will be more.
 
-*   🖥️  See my works at [github](http://https://github.com/lojaaaaa)
+*   🖥️  See my works at [github](https://github.com/lojaaaaa?tab=repositories)
 *   ✉️  You can contact me at [lifeofhighlights@gmail.com](mailto:lifeofhighlights@gmail.com)
 *   🧠  Now i'm learning advanced aspects of java script
 
