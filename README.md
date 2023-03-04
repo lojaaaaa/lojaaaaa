@@ -1,7 +1,7 @@
-Hi 👋 I'm a
+Hi 👋 I'm
 ==========================
 
-Beginner Web Developer
+a Beginner Web Developer
 ----------------------
 
 Now I can make some basic websites, but I hope there will be more.
