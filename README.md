@@ -4,7 +4,7 @@ I'm
 a Beginner Web Developer
 ----------------------
 
-<a href="https://www.codewars.com/users/lojaaaaa" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/lojaaaaa/badges/large" alt="codewars"/></a>
+<a href="https://www.codewars.com/users/lojaaaaa" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/lojaaaaa/badges/micro" alt="codewars"/></a>
 
 Now I can make some basic websites, but I hope there will be more.
 
