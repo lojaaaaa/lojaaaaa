@@ -1,7 +1,7 @@
 
 *   🖥️  See my works at [github](https://github.com/lojaaaaa?tab=repositories)
 *   ✉️  You can contact me at [lifeofhighlights@gmail.com](mailto:lifeofhighlights@gmail.com)
-*   🧠  Now i'm learning advanced aspects of java script
+*   🧠  Now i'm learning advanced aspects of java script <br>
 <a href="https://www.codewars.com/users/lojaaaaa" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/lojaaaaa/badges/micro" alt="codewars"/></a>
 
 Skills
