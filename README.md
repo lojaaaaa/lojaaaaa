@@ -1,11 +1,8 @@
 
-<a href="https://www.codewars.com/users/lojaaaaa" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/lojaaaaa/badges/micro" alt="codewars"/></a>
-
-Now I can make some basic websites, but I hope there will be more.
-
 *   🖥️  See my works at [github](https://github.com/lojaaaaa?tab=repositories)
 *   ✉️  You can contact me at [lifeofhighlights@gmail.com](mailto:lifeofhighlights@gmail.com)
 *   🧠  Now i'm learning advanced aspects of java script
+<a href="https://www.codewars.com/users/lojaaaaa" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/lojaaaaa/badges/micro" alt="codewars"/></a>
 
 Skills
 
