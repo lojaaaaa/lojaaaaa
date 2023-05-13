@@ -1,8 +1,3 @@
-I'm
-==========================
-
-a Beginner Web Developer
-----------------------
 
 <a href="https://www.codewars.com/users/lojaaaaa" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/lojaaaaa/badges/micro" alt="codewars"/></a>
 
